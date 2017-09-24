@@ -1,0 +1,10 @@
+E:\laodai\网店\WdExpand\WdExpand\bin\WdExpand.dll
+E:\laodai\网店\WdExpand\WdExpand\bin\WdExpand.pdb
+E:\laodai\网店\WdExpand\WdExpand\obj\Debug\WdExpand.csprojResolveAssemblyReference.cache
+E:\laodai\网店\WdExpand\WdExpand\obj\Debug\WdExpand.dll
+E:\laodai\网店\WdExpand\WdExpand\obj\Debug\WdExpand.pdb
+E:\code\恒康工作\网店\WdExpand\WdExpand\bin\WdExpand.dll
+E:\code\恒康工作\网店\WdExpand\WdExpand\bin\WdExpand.pdb
+E:\code\恒康工作\网店\WdExpand\WdExpand\obj\Debug\WdExpand.dll
+E:\code\恒康工作\网店\WdExpand\WdExpand\obj\Debug\WdExpand.pdb
+E:\code\恒康工作\网店\WdExpand\WdExpand\obj\Debug\WdExpand.csprojResolveAssemblyReference.cache

@@ -1,0 +1,111 @@
+﻿#header {
+    position: relative;
+    padding: 10px 10px 8px;
+}
+
+    #header a.logo {
+        display: inline-block;
+        margin-right: 5px;
+    }
+
+    #header a.title {
+        font-weight: bold;
+        font-size: 24px;
+        text-decoration: none;
+        line-height: 36px;
+        color: #fff;
+    }
+
+
+    #header .themeroller {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+        #header .themeroller a {
+            font-size: 20px;
+            text-decoration: none;
+            line-height: 36px;
+            color: #fff;
+        }
+
+
+#logo {
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    z-index: 100000;
+}
+
+.isnew {
+    color: red;
+}
+
+.bottomtable {
+    width: 100%;
+    font-size: 12px;
+}
+
+/* 修正选项卡标题中放置红色[New!]时，底部出现的一行空白线 */
+.f-theme-neptune .x-tab .x-tab-inner {
+    line-height: 16px !important;
+}
+
+
+/* 主题相关样式 - neptune */
+.f-theme-neptune #header,
+.f-theme-neptune .bottomtable,
+.f-theme-neptune .x-splitter {
+    background-color: #1475BB;
+    color: #fff;
+}
+
+    .f-theme-neptune #header a,
+    .f-theme-neptune .bottomtable a {
+        color: #fff;
+    }
+
+
+/* 主题相关样式 - blue */
+.f-theme-blue #header,
+.f-theme-blue .bottomtable {
+    background-color: #DFE8F6;
+    color: #000;
+}
+
+    .f-theme-blue #header a,
+    .f-theme-blue .bottomtable a {
+        color: #000;
+    }
+
+/* 主题相关样式 - gray */
+.f-theme-gray #header,
+.f-theme-gray .bottomtable {
+    background-color: #E0E0E0;
+    color: #333;
+}
+
+    .f-theme-gray #header a,
+    .f-theme-gray .bottomtable a {
+        color: #333;
+    }
+
+/* 主题相关样式 - access */
+.f-theme-access #header,
+.f-theme-access .bottomtable {
+    background-color: #3F4757;
+    color: #fff;
+}
+
+    .f-theme-access #header a,
+    .f-theme-access .bottomtable a {
+        color: #fff;
+    }
+
+.f-theme-access .maincontent .x-panel-body {
+    background-image: none;
+}
