@@ -17,3 +17,14 @@ E:\code\网店\WdExpand\WdExpand\bin\FineUI.dll
 E:\code\网店\WdExpand\WdExpand\bin\FineUI.xml
 E:\code\网店\WdExpand\WdExpand\bin\Newtonsoft.Json.dll
 E:\code\网店\WdExpand\WdExpand\bin\Newtonsoft.Json.xml
+E:\code\projects\esAPI\WdExpand\bin\WdExpand.dll.config
+E:\code\projects\esAPI\WdExpand\bin\WdExpand.dll
+E:\code\projects\esAPI\WdExpand\bin\WdExpand.pdb
+E:\code\projects\esAPI\WdExpand\bin\FineUI.dll
+E:\code\projects\esAPI\WdExpand\bin\Newtonsoft.Json.dll
+E:\code\projects\esAPI\WdExpand\bin\FineUI.xml
+E:\code\projects\esAPI\WdExpand\bin\Newtonsoft.Json.xml
+E:\code\projects\esAPI\WdExpand\obj\Release\WdExpand.csprojResolveAssemblyReference.cache
+E:\code\projects\esAPI\WdExpand\obj\Release\WdExpand.csproj.CoreCompileInputs.cache
+E:\code\projects\esAPI\WdExpand\obj\Release\WdExpand.dll
+E:\code\projects\esAPI\WdExpand\obj\Release\WdExpand.pdb

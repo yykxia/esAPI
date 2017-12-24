@@ -7,10 +7,10 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace WdExpand.SFYFK {
+namespace WdExpand.CkPro {
     
     
-    public partial class sfy_autoReturnBack {
+    public partial class SellBack_Register {
         
         /// <summary>
         /// form1 控件。
@@ -31,58 +31,13 @@ namespace WdExpand.SFYFK {
         protected global::FineUI.PageManager PageManager1;
         
         /// <summary>
-        /// Timer1 控件。
+        /// Panel1 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::FineUI.Timer Timer1;
-        
-        /// <summary>
-        /// Timer2 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::FineUI.Timer Timer2;
-        
-        /// <summary>
-        /// label_mark 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::FineUI.Label label_mark;
-        
-        /// <summary>
-        /// btn_autoReturnBack 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::FineUI.Button btn_autoReturnBack;
-        
-        /// <summary>
-        /// btn_close 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::FineUI.Button btn_close;
-        
-        /// <summary>
-        /// btn_post 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::FineUI.Button btn_post;
+        protected global::FineUI.Panel Panel1;
         
         /// <summary>
         /// Grid1 控件。
@@ -94,21 +49,84 @@ namespace WdExpand.SFYFK {
         protected global::FineUI.Grid Grid1;
         
         /// <summary>
-        /// Label_status 控件。
+        /// tlb1 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::FineUI.Label Label_status;
+        protected global::FineUI.Toolbar tlb1;
         
         /// <summary>
-        /// Label1 控件。
+        /// DatePicker1 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::FineUI.Label Label1;
+        protected global::FineUI.DatePicker DatePicker1;
+        
+        /// <summary>
+        /// DatePicker2 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.DatePicker DatePicker2;
+        
+        /// <summary>
+        /// btn_query 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Button btn_query;
+        
+        /// <summary>
+        /// btn_export 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Button btn_export;
+        
+        /// <summary>
+        /// Panel2 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Panel Panel2;
+        
+        /// <summary>
+        /// Grid2 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Grid Grid2;
+        
+        /// <summary>
+        /// Grid3 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Grid Grid3;
+        
+        /// <summary>
+        /// Window1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Window Window1;
     }
 }

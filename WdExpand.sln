@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WdExpand", "WdExpand\WdExpand.csproj", "{135DD0E5-7EFC-44FE-9465-34F5B4D69ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135DD0E5-7EFC-44FE-9465-34F5B4D69ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135DD0E5-7EFC-44FE-9465-34F5B4D69ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135DD0E5-7EFC-44FE-9465-34F5B4D69ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135DD0E5-7EFC-44FE-9465-34F5B4D69ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

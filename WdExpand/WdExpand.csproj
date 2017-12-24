@@ -20,6 +20,8 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -78,8 +80,10 @@
     <Content Include="CkPro\dscw_dy.aspx" />
     <Content Include="CkPro\dscw_printdtl.aspx" />
     <Content Include="CkPro\dscw_print_orig.aspx" />
+    <Content Include="CkPro\ExportAsExcel.aspx" />
     <Content Include="CkPro\install_lodop32.exe" />
     <Content Include="CkPro\install_lodop64.exe" />
+    <Content Include="CkPro\SellBack_Register.aspx" />
     <Content Include="CwCount\cw_orderReg_orig.aspx" />
     <Content Include="CwCount\cw_orderUnion.aspx" />
     <Content Include="CwCount\cw_orderUnion_export.aspx" />
@@ -3708,6 +3712,20 @@
     <Compile Include="CkPro\dscw_print_orig.aspx.designer.cs">
       <DependentUpon>dscw_print_orig.aspx</DependentUpon>
     </Compile>
+    <Compile Include="CkPro\ExportAsExcel.aspx.cs">
+      <DependentUpon>ExportAsExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CkPro\ExportAsExcel.aspx.designer.cs">
+      <DependentUpon>ExportAsExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CkPro\SellBack_Register.aspx.cs">
+      <DependentUpon>SellBack_Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CkPro\SellBack_Register.aspx.designer.cs">
+      <DependentUpon>SellBack_Register.aspx</DependentUpon>
+    </Compile>
     <Compile Include="cs\BasePage.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
@@ -3758,6 +3776,7 @@
     <Compile Include="main.aspx.designer.cs">
       <DependentUpon>main.aspx</DependentUpon>
     </Compile>
+    <Compile Include="OrderNotice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -3848,6 +3867,7 @@
     <Compile Include="test.aspx.designer.cs">
       <DependentUpon>test.aspx</DependentUpon>
     </Compile>
+    <Compile Include="WdgjOrders.cs" />
     <Compile Include="wdgjWebService.asmx.cs">
       <DependentUpon>wdgjWebService.asmx</DependentUpon>
       <SubType>Component</SubType>
